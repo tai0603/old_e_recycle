@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "old_e_recycle",
+    "slug": "old_e_recycle",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "old_e_recycle"
+}
